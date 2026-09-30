@@ -1,0 +1,6 @@
+rank,name,smiles,molecular_weight,logP,drug_like,predicted_toxicity_risk,best_known_similarity,overall_score
+1,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,206.28,3.07,True,0.143,0.724,87.3
+2,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,194.19,-1.03,True,0.227,0.537,79.4
+3,Paracetamol,CC(=O)NC1=CC=C(C=C1)O,151.16,1.35,True,0.21,0.4,77.5
+4,Benzene,c1ccccc1,78.11,1.69,True,0.239,0.188,71.8
+5,Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,180.16,1.31,True,0.993,0.69,44.1

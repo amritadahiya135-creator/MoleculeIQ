@@ -1,0 +1,8 @@
+rdkit
+scikit-learn
+pandas
+joblib
+shap
+matplotlib
+streamlit
+chembl_webresource_client
